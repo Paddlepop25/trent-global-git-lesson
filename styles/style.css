@@ -13,11 +13,12 @@ nav ul {
 nav li {
     display: inline-block;
     height: 40px;
-    line-height: 50px;
+    line-height: 35px;
 }
 nav a {
     color: white;
     text-decoration: none;
+    padding: 10px 10px;
 }
 
 nav a:hover {
